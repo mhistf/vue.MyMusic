@@ -1,2 +1,1 @@
-# vue.MyMusic
-Make A Music Player Just Like This
+<h1>看到别人用Vue写了个播放器，自己也想尝试一下</h1>
